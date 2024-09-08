@@ -5,7 +5,7 @@ import { redirect, useNavigate } from 'react-router-dom';
   
 
   
-function projects() {
+function Projects() {
   const navigate = useNavigate();
   const handleClick = () => {
     navigate('/projects/pulsar');
@@ -38,4 +38,4 @@ function projects() {
   )
 }
 
-export default projects
+export default Projects
