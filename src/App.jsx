@@ -9,7 +9,7 @@ import About from './pages/projects/pulsar/about';
 import HomePage from './pages/home';
 import Talk from './pages/Talk';
 import MainAbout from './pages/MainAbout';
-import  Projects from './pages/projects/projects';
+import  Projects from './pages/projects/Projects';
 import Classify from './pages/projects/pulsar/classify';
 import Discuss from './pages/projects/pulsar/discuss';
 import Collection from './pages/projects/pulsar/collection';
